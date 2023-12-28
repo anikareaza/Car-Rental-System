@@ -6,3 +6,7 @@ customer to make a reservation based on the availability of the car, time slots,
 The customer can view available cars and select from available dates and branches to rent. The
 branch member can add, delete and modify Customer, Branch, Car, CarType, and Rentals
 information.
+
+
+https://github.com/anikareaza/Car-Rental-System/assets/101680746/afa2c78d-12a8-4c45-b6b6-a7eeca35de2e
+
