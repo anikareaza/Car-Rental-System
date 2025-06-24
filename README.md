@@ -6,7 +6,7 @@ A full-featured car rental management system that enables real-time reservations
 
 This project involves designing and implementing a relational database system to support the operations of a car rental agency. The system allows customers to view and reserve available cars by date, branch, and car type. Branch employees can manage car inventory, customer records, and rental transactions. It ensures accurate booking, availability checks, and automated fee calculations.
 
-## Tools & Technologies
+## Tools
 
 - SQL Server – Database backend
 - C# (.NET) – User interface (Windows Forms)
