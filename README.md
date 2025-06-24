@@ -25,7 +25,7 @@ The system includes five main tables:
 Referential integrity and constraints ensure valid and consistent entries.
 
 ### Entity Relationship Diagram
-<img width="627" alt="Screenshot 2025-06-23 at 7 54 07 PM" src="https://github.com/user-attachments/assets/f15622b0-5516-4a02-a797-1ba056507b91" />
+<img width="762" alt="Screenshot 2025-06-23 at 7 54 38 PM" src="https://github.com/user-attachments/assets/c926c4c4-fb1c-46e0-a158-929c880fbb81" />
 
 
 ## Features
