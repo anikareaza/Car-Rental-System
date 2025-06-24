@@ -1,6 +1,6 @@
 # Car Rental System
 
-A  car rental management database system designed to handle real-time reservations, rental tracking, and operational reporting. This project integrates a relational database with a C# user interface and includes optional Python analysis scripts to generate insights on performance and customer behavior.
+A full-featured car rental management system that enables real-time reservations, rental tracking, and operational reporting. It combines a SQL-based relational database with a C# front-end interface, with optional Python scripts used to analyze performance and customer behavior.
 
 ## Project Overview
 
